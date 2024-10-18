@@ -43,6 +43,7 @@ The dataset `financial_loan.csv` contains the following details:
    - **Default Rate**: Percentage of loans that were charged off or defaulted, which highlights areas of risk.
    - **Repayment Rate**: The proportion of loans fully paid or in good standing, reflecting the success of loan repayments.
    - **Interest Rates**: The average interest rate applied to loans, allowing insight into loan cost trends.
+   - **Good Loan VS Bad Loan**: based on Loan Status , Average Dti (Average Debt-to-Income Ratio) and other factors
 
 ### 4. **Insights on Loan Status and Purpose**
    - **Loan Status Performance**: Loans were categorized as Fully Paid, Current, or Charged Off. A significant portion of loans were in good standing, while a smaller percentage of loans were charged off, indicating potential risk areas.
