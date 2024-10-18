@@ -4,11 +4,11 @@
 
 
 ### Dashboard Snapshots:
-1. ![Dashboard Overview]![Screenshot 2024-10-17 111014](https://github.com/user-attachments/assets/c5cf3a0e-17f5-4aff-bf13-139b42effb2a)
+1. ![Dashboard Summary]![Screenshot 2024-10-17 111014](https://github.com/user-attachments/assets/c5cf3a0e-17f5-4aff-bf13-139b42effb2a)
 
-2. ![Loan Purpose Insights]![Screenshot 2024-10-17 111028](https://github.com/user-attachments/assets/3fbe3938-52f9-4de1-8f88-9421706e0b88)
+2. ![Dashboard Overview]![Screenshot 2024-10-17 111028](https://github.com/user-attachments/assets/3fbe3938-52f9-4de1-8f88-9421706e0b88)
 
-3. ![Loan Status and Repayment]![Screenshot 2024-10-17 111113](https://github.com/user-attachments/assets/9263f672-11ab-48bb-b9da-df4915c091bc)
+3. ![Dashboard Details]![Screenshot 2024-10-17 111113](https://github.com/user-attachments/assets/9263f672-11ab-48bb-b9da-df4915c091bc)
 
 
 ---
