@@ -1,8 +1,7 @@
 # Financial Loan Data Analysis Project
 
-## [Dynamic Tableau Dashboard](https://public.tableau.com/views/BankLoansProject/OVERVIEW?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
+## [Click here to go to the Dynamic Tableau Dashboard](https://public.tableau.com/views/BankLoansProject/OVERVIEW?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
-Click the link above to explore the interactive Tableau dashboard that visualizes the key insights from the financial loan data analysis.
 
 ### Dashboard Snapshots:
 1. ![Dashboard Overview]![Screenshot 2024-10-17 111014](https://github.com/user-attachments/assets/c5cf3a0e-17f5-4aff-bf13-139b42effb2a)
